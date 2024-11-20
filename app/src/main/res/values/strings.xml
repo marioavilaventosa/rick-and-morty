@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RickApp</string>
+    <string name="character_image">Imagen del personaje</string>
+    <string name="character_status">Estado del personaje</string>
+    <string name="alive">Vivo</string>
+    <string name="dead">Muerto</string>
+    <string name="unknown">Desconocido</string>
+    <string name="origin">Origen</string>
+    <string name="status">Estado</string>
+    <string name="species">Especie</string>
+    <string name="gender">Género</string>
+    <string name="location">Ubicación</string>
+    <string name="back">Ir hacia atras</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="no_characters">No hay personajes</string>
+    <string name="error">Ha ocurrido un error. Inténtelo de nuevo</string>
+</resources>
